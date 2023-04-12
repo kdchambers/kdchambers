@@ -4,4 +4,4 @@
 
 If you like some of my existing work, or would like to help support future projects, please consider donating through my company (Fairy Tree S.A.C). [Paypal link](https://www.paypal.com/paypalme/fairytreesoftware)
 
-Also available for contract work in zig or c/c++.
+Also available for remote work. I'm most proficient in c, c++ and zig.
